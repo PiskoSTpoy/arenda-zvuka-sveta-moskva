@@ -33,3 +33,8 @@
 - [Что такое сценический монитор](https://arenda-sveta-zvuka.ru/blog/scenicheskiy-monitor/)
 - [Что такое гобо](https://arenda-sveta-zvuka.ru/blog/gobo/)
 - [Чем активные колонки отличаются от пассивных](https://arenda-sveta-zvuka.ru/blog/aktivnye-i-passivnye-kolonki/)
+- [Как подключить синтезатор к микшеру](https://arenda-sveta-zvuka.ru/blog/sintezator-k-miksheru/)
+- [Что такое фантомное питание микрофона](https://arenda-sveta-zvuka.ru/blog/fantomnoe-pitanie-mikrofona/)
+- [Как подключить сабвуфер к активным колонкам](https://arenda-sveta-zvuka.ru/blog/sabvufer-k-aktivnym-kolonkam/)
+- [Что такое DMX сплиттер](https://arenda-sveta-zvuka.ru/blog/dmx-splitter/)
+- [Как выставить DMX адрес](https://arenda-sveta-zvuka.ru/blog/dmx-adres/)
